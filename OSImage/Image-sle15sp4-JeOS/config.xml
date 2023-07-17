@@ -66,6 +66,7 @@
         <package name="suse-build-key"/>
         <package name="systemd"/>
         <package name="systemd-sysvinit"/>
+        <package name="syslinux"/>
         <package name="timezone"/>
         <package name="wicked"/>
         <package name="iproute2"/> 
