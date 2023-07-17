@@ -45,6 +45,7 @@
         <package name="chrony"/>
         <package name="curl"/>
         <package name="dracut"/>
+        <package name="dracut-kiwi-oem-dump"/>
         <package name="fipscheck"/>
         <package name="group(mail)"/> <!-- needed by useradd bsc#1061838-->
         <package name="group(wheel)"/>
@@ -68,7 +69,7 @@
         <package name="timezone"/>
         <package name="wicked"/>
         <package name="iproute2"/> 
-        <package name="openssh"/>
+        <package name="openssh"/>        
 	<package name="rsync"/>
 	<package name="dracut-kiwi-oem-repart"/>
 
